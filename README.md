@@ -1,7 +1,8 @@
 ### Opa, bão ? Me chamo João Vitor 👋
 
 - 🌱 Atualmente estou em uma jornada para me tornar um Q.A tester.
-- 👨‍🎓 Estudando Postman 
+
+- 👨‍🎓 Estudando: Postman
 
 📚 O que aprendi até agora ?
 
@@ -15,5 +16,3 @@
   <a href = "mailto:joaov.fs19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaov-fs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
-![Snake animation](https://github.com/joaov-fs/joaov-fs/blob/output/github-contribution-grid-snake.svg)
